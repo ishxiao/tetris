@@ -1,0 +1,17 @@
+# Enable java support
+language: java
+# Compiler
+compiler:
+  - java
+#
+jdk:
+  - oraclejdk9
+# 
+before_install:
+  - cd java
+# brefore_script: cd ${TRAVIS_BUILD_DIR}/java
+# Build Script
+script:
+  - javac TetrisApp.java
+#
+#after_success:

@@ -1,13 +1,25 @@
-# tetris
-Tetris
+tetris
+=======
+
+[Xiao Shang](http://github.com/ishxiao)
+
+Tetris game
+
+Build status and test coverage
+------------------------------
+
+[![build-status](https://travis-ci.org/ishxiao/tetris.svg?branch=master)](http://travis-ci.org/ishxiao/tetris)
+[![Coverage Status](https://img.shields.io/coveralls/ishxiao/tetris.svg)](https://coveralls.io/r/ishxiao/tetris)
 
 ## Quick start
 
 Run with cmd:
 
 ```
-javac .\Tetris.java -encoding utf8
-java Tetris
+git clone git@github.com:ishxiao/tetris.git
+cd tetris/java
+javac TetrisApp.java -encoding utf8
+java TetrisApp
 ```
 
 ## What's included
@@ -17,16 +29,20 @@ tetris/
 ├── java/
 │   ├── TetrisApp.java
 │   └── Tetris.java
+├── .gitignore
+├── .travis.yml
+├── LICENSE
+└── README.md
 
 ```
 ## Preview
-<img alt="image" style="border-width:0" src="https://github.com/ishxiao/tetris/blob/master/images/tetris-img-1.png" />
+<img alt="image" style="border-width:0" src="https://github.com/ishxiao/tetris/blob/master/res/tetris-img-1.png" />
 
-<img alt="image" style="border-width:0" src="https://github.com/ishxiao/tetris/blob/master/images/tetris-img-2.png" />
+<img alt="image" style="border-width:0" src="https://github.com/ishxiao/tetris/blob/master/res/tetris-img-2.png" />
 
-<img alt="image" style="border-width:0" src="https://github.com/ishxiao/tetris/blob/master/images/tetris-img-3.png" />
+<img alt="image" style="border-width:0" src="https://github.com/ishxiao/tetris/blob/master/res/tetris-img-3.png" />
 
-<img alt="image" style="border-width:0" src="https://github.com/ishxiao/tetris/blob/master/images/tetris-img-4.png" />
+<img alt="image" style="border-width:0" src="https://github.com/ishxiao/tetris/blob/master/res/tetris-img-4.png" />
 
 ## Contributing
 
