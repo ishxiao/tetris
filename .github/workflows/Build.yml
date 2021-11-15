@@ -25,4 +25,3 @@ jobs:
       run: |
         cd java
         javac TetrisApp.java -encoding utf8
-        java TetrisApp
