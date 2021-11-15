@@ -8,8 +8,7 @@ Tetris game
 Build status and test coverage
 ------------------------------
 
-[![build-status](https://travis-ci.org/ishxiao/tetris.svg?branch=master)](http://travis-ci.org/ishxiao/tetris)
-[![Coverage Status](https://img.shields.io/coveralls/ishxiao/tetris.svg)](https://coveralls.io/r/ishxiao/tetris)
+[![Build Status](https://github.com/ishxiao/tetris/workflows/Build/badge.svg)](https://github.com/ishxiao/tetris/actions?query=workflow%3ABuild)
 
 ## Quick start
 
