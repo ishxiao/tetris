@@ -25,13 +25,18 @@ java TetrisApp
 
 ```
 tetris/
-├── java/
-│   ├── TetrisApp.java
-│   └── Tetris.java
-├── .gitignore
-├── .travis.yml
 ├── LICENSE
-└── README.md
+├── README.md
+├── java
+│   ├── Tetris.java
+│   └── TetrisApp.java
+└── res
+    ├── tetris-img-1.png
+    ├── tetris-img-2.png
+    ├── tetris-img-3.png
+    └── tetris-img-4.png
+
+3 directories, 11 files
 
 ```
 ## Preview
