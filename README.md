@@ -8,7 +8,7 @@ Tetris game
 Build status and test coverage
 ------------------------------
 
-[![Build Status](https://github.com/ishxiao/tetris/workflows/Build/badge.svg)](https://github.com/ishxiao/tetris/actions?query=workflow%3ABuild)
+[![Build](https://github.com/ishxiao/tetris/actions/workflows/Build.yml/badge.svg)](https://github.com/ishxiao/tetris/actions/workflows/Build.yml)
 
 ## Quick start
 
